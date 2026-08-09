@@ -17,11 +17,11 @@ This project demonstrates the application of different machine learning techniqu
 
 The project is organized into several Jupyter notebooks, each focusing on a different machine learning technique:
 
-* `01_linear_regression.ipynb` – Linear Regression
-* `02_decision_tree.ipynb` – Decision Tree classification
-* `03_knn.ipynb` – K-Nearest Neighbors classification
-* `04_neural_network.ipynb` – Multi-Layer Perceptron neural network
-* `05_clustering.ipynb` – K-Means and Hierarchical Clustering
+* `linear_regression.ipynb` – Linear Regression
+* `decision_tree.ipynb` – Decision Tree classification
+* `kNN.ipynb` – K-Nearest Neighbors classification
+* `neural_network.ipynb` – Multi-Layer Perceptron neural network
+* `clustering.ipynb` – K-Means and Hierarchical Clustering
 
 ## Machine Learning Techniques
 
